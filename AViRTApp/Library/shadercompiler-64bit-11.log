@@ -1,0 +1,43 @@
+Base path: C:/Program Files/Unity/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-64bit-11-8944
+Cmd: getPlatforms
+Cmd: compileSnippet
+  api=5 type=0 insize=812 outsize=6226 kw=DIRECTIONAL SHADOWS_SCREEN ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=812 outsize=6 kw=DIRECTIONAL_COOKIE SHADOWS_SCREEN ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=634781 outsize=13041 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF VERTEXLIGHT_ON GEOM_TYPE_BRANCH ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=634781 outsize=6 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF LOD_FADE_PERCENTAGE GEOM_TYPE_BRANCH ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=408937 outsize=11605 kw=POINT LOD_FADE_CROSSFADE GEOM_TYPE_BRANCH ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=357408 outsize=9287 kw=LOD_FADE_PERCENTAGE GEOM_TYPE_BRANCH ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=554273 outsize=6 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF GEOM_TYPE_BRANCH ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=1319 outsize=6 kw=SHADOWS_CUBE LOD_FADE_PERCENTAGE GEOM_TYPE_BRANCH ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=99240 outsize=4465 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF GEOM_TYPE_BRANCH ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=99240 outsize=6 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF GEOM_TYPE_BRANCH ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=58481 outsize=3166 kw=DIRECTIONAL_COOKIE GEOM_TYPE_BRANCH ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=58481 outsize=6 kw=POINT GEOM_TYPE_BRANCH ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=49708 outsize=6 kw=LOD_FADE_PERCENTAGE GEOM_TYPE_BRANCH ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=1123 outsize=2296 kw=SHADOWS_DEPTH LOD_FADE_PERCENTAGE GEOM_TYPE_BRANCH ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=7446 outsize=7523 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4255 outsize=4090 kw=DIRECTIONAL SHADOWS_OFF ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4255 outsize=6700 kw=POINT_COOKIE SHADOWS_CUBE SHADOWS_SOFT ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4255 outsize=6 kw=SPOT SHADOWS_DEPTH SHADOWS_SOFT SHADOWS_NONATIVE ok=1
+Unhandled exception: Readfile from pipe failed. GLE=The pipe has been ended.
+
+
+Quitting shader compiler process

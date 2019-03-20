@@ -1,0 +1,165 @@
+fileFormatVersion: 2
+guid: d700d20cd8d201d448711b95a7dbf9c5
+timeCreated: 1445205494
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: CompoundCurve1013
+    100004: CompoundCurve1014
+    100006: CompoundCurve1015
+    100008: CompoundCurve1016
+    100010: CompoundCurve1017
+    100012: CompoundCurve1018
+    100014: CompoundCurve5
+    100016: CompoundCurve990
+    100018: CompoundCurve995
+    100020: curve1390
+    100022: curve1396
+    100024: curve1417
+    100026: curve1418
+    100028: curve1419
+    100030: curve1420
+    100032: curve1421
+    100034: curve1422
+    100036: curve1423
+    100038: curve1424
+    100040: curve1425
+    100042: curve5
+    100044: group1
+    100046: IllustratorCurves1
+    100048: planarTrimmedSurface1
+    100050: planarTrimmedSurface10
+    100052: planarTrimmedSurface11
+    100054: planarTrimmedSurface12
+    100056: planarTrimmedSurface14
+    100058: planarTrimmedSurface2
+    100060: planarTrimmedSurface4
+    100062: planarTrimmedSurface5
+    100064: planarTrimmedSurface9
+    400000: //RootNode
+    400002: CompoundCurve1013
+    400004: CompoundCurve1014
+    400006: CompoundCurve1015
+    400008: CompoundCurve1016
+    400010: CompoundCurve1017
+    400012: CompoundCurve1018
+    400014: CompoundCurve5
+    400016: CompoundCurve990
+    400018: CompoundCurve995
+    400020: curve1390
+    400022: curve1396
+    400024: curve1417
+    400026: curve1418
+    400028: curve1419
+    400030: curve1420
+    400032: curve1421
+    400034: curve1422
+    400036: curve1423
+    400038: curve1424
+    400040: curve1425
+    400042: curve5
+    400044: group1
+    400046: IllustratorCurves1
+    400048: planarTrimmedSurface1
+    400050: planarTrimmedSurface10
+    400052: planarTrimmedSurface11
+    400054: planarTrimmedSurface12
+    400056: planarTrimmedSurface14
+    400058: planarTrimmedSurface2
+    400060: planarTrimmedSurface4
+    400062: planarTrimmedSurface5
+    400064: planarTrimmedSurface9
+    2300000: planarTrimmedSurface1
+    2300002: planarTrimmedSurface10
+    2300004: planarTrimmedSurface11
+    2300006: planarTrimmedSurface12
+    2300008: planarTrimmedSurface14
+    2300010: planarTrimmedSurface2
+    2300012: planarTrimmedSurface4
+    2300014: planarTrimmedSurface5
+    2300016: planarTrimmedSurface9
+    3300000: planarTrimmedSurface1
+    3300002: planarTrimmedSurface10
+    3300004: planarTrimmedSurface11
+    3300006: planarTrimmedSurface12
+    3300008: planarTrimmedSurface14
+    3300010: planarTrimmedSurface2
+    3300012: planarTrimmedSurface4
+    3300014: planarTrimmedSurface5
+    3300016: planarTrimmedSurface9
+    4300000: planarTrimmedSurface1
+    4300002: planarTrimmedSurface2
+    4300004: planarTrimmedSurface4
+    4300006: planarTrimmedSurface5
+    4300008: planarTrimmedSurface9
+    4300010: planarTrimmedSurface10
+    4300012: planarTrimmedSurface11
+    4300014: planarTrimmedSurface12
+    4300016: planarTrimmedSurface14
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,47 @@
+Base path: C:/Program Files/Unity/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-64bit-12-8856
+Cmd: getPlatforms
+Cmd: compileSnippet
+  api=5 type=0 insize=812 outsize=6960 kw=POINT SHADOWS_CUBE ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=812 outsize=6 kw=SPOT SHADOWS_DEPTH SHADOWS_NATIVE ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=634781 outsize=12122 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF LOD_FADE_PERCENTAGE GEOM_TYPE_BRANCH ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=634781 outsize=13017 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF LOD_FADE_CROSSFADE GEOM_TYPE_BRANCH ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=634781 outsize=6 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF LOD_FADE_CROSSFADE GEOM_TYPE_BRANCH ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=408937 outsize=10611 kw=DIRECTIONAL_COOKIE LOD_FADE_PERCENTAGE GEOM_TYPE_BRANCH ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=408937 outsize=11694 kw=POINT_COOKIE LOD_FADE_CROSSFADE GEOM_TYPE_BRANCH ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=408937 outsize=6 kw=POINT_COOKIE LOD_FADE_PERCENTAGE GEOM_TYPE_BRANCH ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=357408 outsize=6 kw=LOD_FADE_PERCENTAGE GEOM_TYPE_BRANCH ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=554273 outsize=6 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF LOD_FADE_CROSSFADE HDR_LIGHT_PREPASS_OFF GEOM_TYPE_BRANCH ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=1319 outsize=6 kw=SHADOWS_DEPTH GEOM_TYPE_BRANCH ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=99240 outsize=3749 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF GEOM_TYPE_BRANCH ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=99240 outsize=6 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF LOD_FADE_PERCENTAGE GEOM_TYPE_BRANCH ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=58481 outsize=3472 kw=POINT LOD_FADE_PERCENTAGE GEOM_TYPE_BRANCH ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=49708 outsize=2049 kw=LOD_FADE_PERCENTAGE GEOM_TYPE_BRANCH ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=1156 outsize=6 kw=LOD_FADE_PERCENTAGE GEOM_TYPE_BRANCH ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4330 outsize=6 kw=POINT_COOKIE ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4255 outsize=5741 kw=SPOT SHADOWS_DEPTH SHADOWS_NATIVE ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4255 outsize=6 kw=DIRECTIONAL SHADOWS_SCREEN ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4255 outsize=6 kw=DIRECTIONAL_COOKIE SHADOWS_SCREEN SHADOWS_NATIVE ok=1
+Unhandled exception: Readfile from pipe failed. GLE=The pipe has been ended.
+
+
+Quitting shader compiler process
